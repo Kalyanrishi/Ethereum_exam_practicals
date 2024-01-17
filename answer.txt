@@ -1,0 +1,8 @@
+Write an NFT MarketPlace Smart Contract which allows users to buy the NFT and list their already-mintedNFT. Also the owner of the marketplace has to get a commission whenever an NFT is sold.
+
+Ans)  NFT Market place Smart contract which allows users to buy the NFT and list the
+      NFT's which are already minted  and also the owner of the market place will get 
+      commision whenever an NFT ia sold.
+     
+      In smart contract, withdraw function is for safety purpose, if any ether got stuck in the 
+      contract then the contract owner can withdraw it. 
